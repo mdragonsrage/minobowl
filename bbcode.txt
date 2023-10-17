@@ -1,0 +1,112 @@
+[block=center]
+[IMG]https://github.com/mdragonsrage/minobowl/blob/main/banner_minotaurinorumIII.jpg?raw=true[/IMG]
+
+[toggle group=toggles block=home label=Welcome width=50%]\
+[toggle group=toggles block=roster label=Roster Creation width=50%]\
+[/block]
+[block group=toggles id=home][block=panel automargin width=900px id=home][block=panelheader]Roster Creation[/block][block=pad10]
+BOJA FAUSS!!
+La Lega Minotaurinorum è tornata!
+Ci diamo la possibilità di giocare su Fumbbl una volta al mese per due motivi principali: ritornare a giocare insieme tra tutti i giocatori di Torino e limitrofi e allenarci per il prossimo Eurobowl 2024 in Grecia!
+Una partita al mese, singolo torneo a girone unico, classifica a svizzera.
+A VA BIN PAREI! ANDUMA FIOI!!!!
+[/block][/block][/block]\
+[block=hidden group=toggles id=roster][block=panel automargin width=900px id=roster][block=panelheader]Roster Creation[/block][block=pad10]
+
+[b]TEAM BUILDING[/b]
+Starting Gold and Skill Points (SP)
+Tier 1: 1150k & 06 SP
+Tier 2: 1160k & 07 SP
+Tier 3: 1170k & 08 SP
+Tier 4: 1180k & 09 SP
+Tier 5: 1190k & 10 SP
+Tier 6: 1200k & 11 SP
+
+Primary Skill = 1 SP
+Secondary Skill = 2 SP
+No skill stacking.
+
+[b]TIER LIST[/b]
+Tier1: Chaos Dwarves, Dark Elves, Dwarves, Lizardmen, Shambling Undead.
+Tier2: Amazons, Norse, Orcs, Skaven, Wood Elves.
+Tier3: High Elves, Humans, Necromantic Horror, Tomb Kings, Underworld Denizens.
+Tier4: Chaos Renegades, Elven Union, Khorne, Old World Alliance, Slann.
+Tier5: Black Orcs, Chaos Chosen, Halflings, Imperial Nobility, Snotlings.
+Tier6: Goblins, Nurgle, Ogres, Vampires.
+
+Optional Pack A: 1 Squad Point
+Optional Pack B: 1 Squad Point
+Optional Pack C: 2 Squad Point
+Optional Pack D: 2 Squad Point
+
+Coaches can select any optional pack or stick with the vanilla roster.
+
+[b]Basic Pack: Vanilla Roster[/b]
+The roster is created with all the basic rules set below for team building.
+
+[b]Optional Pack A: Extra Cash (Cannot benefit from any other Pack)[/b]
+The roster is created as the Basic Pack PLUS the below benefit.
+One or more Skill Points can be exchanged for gold at a ratio of 30k per 1SP that will not be used.
+
+[b]Optional Pack B: Skill Stacking (Cannot benefit from any other Pack)[/b]
+The roster is created as the Basic Pack PLUS the below benefit.
+By losing a Skill Point, you are able to stack skills to players in your roster, limiting the use according to the
+tier.
+1 Skill Stack for Tier 1-2, 2 Skill Stacks for Tier 3-4, 3 Skill Stacks for Tier 5-6.
+2nd Primary Skill = 1 SP (Skill Stacking)
+2nd Secondary Skill = 2 SP (Skill Stacking)
+
+[b]Optional Pack C: Star Player (Cannot benefit from any other Pack)[/b]
+The roster is created as the Basic Pack PLUS the below benefit.
+One (1) Star Player can be rostered for Tier 1-4 teams, up to two (2) Star Players can be rostered for Tier
+5-6 teams .
+Star Players in couples count as two Star Players for the roster.
+For every Star Player acquired additional Skill Points cost as follows:
+000-099k then 1 Skill Point
+100-199k then 2 Skill Points
+200-299k then 3 Skill Points
+Banned Star Players: Griff Oberwald, Hakflem Skuttlespike, Morg 'n' Thorg, Bomber Dribblesnot, Cindy
+Piewhistle, Deeproot Strongbranch, Kreek Rustgouger, Estelle La Veneaux.
+The same Star Player cannot play in a game where both coaches have rostered him/her.
+
+[b]Optional Pack D: Extra Skill Point (Cannot benefit from any other Pack)[/b]
+The roster is created as the Basic Pack PLUS the below benefit.
+One extra Skill Point is gained, as long as the usage of the Skill Points from the coach do not exceed in
+total 3 times that skill in the roster. This extra skill should not exceed in total 3 times that skill in the roster
+too.
+Example: A dark elf team with 4 blitzers, 2 witches and 5 LineElves can have this extra skill as long as the
+Skill Points from the tier and the extra Skill Point from the blessing do not add the Block skill because there
+are already more than 3 but not from the skill point usage, and can add maximum 1 more Dodge skill
+because there are already 2 in the roster and by spending 1 Skill Point the total number reaches 3.
+
+A minimum of 11 players and a maximum of 16 are to be rostered.
+• 0-8 Re-Rolls
+• 0-6 Assistant coaches
+• 0-12 Cheerleaders
+• 0-1 Apothecary, if allowed on the team
+• 0-6 Dedicated Fans
+
+
+0-1 Team Mascot for 30k available to all teams - will be available in the tabletop event but not for this event
+
+The following inducements are available:
+• 0-1 Weather Mage for 30k available to all teams
+• 1 Master Chef for 300k, for 100k available to teams with the "Halfling Thimble Cup" special rule
+• 0-6 Assistant coaches (10k)
+• 0-12 Cheerleaders (10k)
+• 0-2 Bloodweiser Kegs (50k)
+• 0-1 Josef Bugman for 100k available to all teams
+• 0-1 Plague Doctor for 100k available to teams with the "Favored of Nurgle" special rule
+• 0-1 Riotous Rookies for 100k available to teams with the "Low Cost Linemen" special rule
+• 0-2 Wandering Apothecaries for 100k available to teams that can include an apothecary
+• 0-3 Bribes for 100k each, for "Bribery and Corruption" teams 50k each
+• No Biased ref may be taken
+
+A roster cannot induce bribes as long as there is a player with the Sneaky Git skill AND/OR the Secret
+Weapon skill. Goblin and Snotling teams have managed to find a "legal" way to avoid this rule, so they can
+induce bribes while their roster contains players with the Secret Weapon skill BUT NOT the Sneaky Git
+skill.
+No roster may have the sneaky git and dirty player skill on the same player, they can be on different players
+
+Star Player notes: See notes on using Squad Points
+[/block][/block][/block]
